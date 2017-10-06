@@ -10,12 +10,12 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "vux": "^2.6.3",
     "fastclick": "^1.0.6",
-    "vuex-i18n": "^1.7.0",
-    "vuex": "^2.4.0",
+    "vue": "^2.4.4",
     "vue-router": "^2.2.0",
-    "vue": "^2.4.4"
+    "vuex": "^2.4.0",
+    "vuex-i18n": "^1.7.0",
+    "vux": "^2.6.3"
   },
   "devDependencies": {
     "amfe-flexible": "^2.2.1",

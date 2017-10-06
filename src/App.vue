@@ -12,8 +12,11 @@
 
 <style lang="less">
   @import '~vux/src/styles/reset.less';
+  @import '~vux/src/styles/1px.less';
 
   body {
+    width: 750px;
     background-color: #fbf9fe;
+    /*color: #FAFAFA;*/
   }
 </style>

@@ -1,12 +1,8 @@
 .login {
   .login-content {
-    .ivu-form-item {
-      margin-bottom: 0;
-      .ivu-input {
-        height: 118px;
-        text-align: center;
-        font-size: 26px;
-      }
+    input.weui-input {
+      height: 98px;
+      text-align: center;
     }
   }
 }

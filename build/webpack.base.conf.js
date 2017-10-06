@@ -25,7 +25,8 @@ let webpackConfig = {
   resolve: {
     extensions: ['.js', '.vue', '.json'],
     alias: {
-      '@': resolve('src')
+      '@': resolve('src'),
+      'components': resolve('src/components')
     }
   },
   module: {
